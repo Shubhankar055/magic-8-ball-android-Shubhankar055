@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="Ball_Img">Ball_Img</string>
+    <string name="Roll">ROLL</string>
+    <string name="Credit">*Made By Shubhanakar</string>
+
 </resources>
